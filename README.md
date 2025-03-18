@@ -1,4 +1,3 @@
-```markdown
 # Dental Clinic Bot
 
 ## **Project Overview**
