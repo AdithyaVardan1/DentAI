@@ -8,7 +8,7 @@ import datetime
 
 
 load_dotenv()
-GROQ_API_KEY="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"
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 
 def create_agent(session_id=None):
     return Agent(
